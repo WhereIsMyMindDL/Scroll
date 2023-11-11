@@ -2,6 +2,8 @@
 
 Буду обновлять скрипт и добавлять новые модули, по мере того, как буду прогревать свои акки!
 
+
+
 # 📓 Основные модули:
 
 1. OrbiterBridge | from network to network
@@ -11,6 +13,8 @@
 5. SpaceSwap | swap and supply (random USDT, DAI, USDC)
 6. Skydrome | swap and supply (random USDT, DAI, USDC)
 7. WrapEtherScroll | Wrap ETH / unWrap ETH
+
+
 
 # 🔧 Инструкция:
 Качаете Python (https://www.python.org/downloads/);
