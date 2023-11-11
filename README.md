@@ -21,11 +21,14 @@
 Устанавливаете библиотеки. pip install -r путьДоСкачанойПапки/requirements.txt;
 
 В wallets.txt приватники, с каждой строчки новый;
+
 В proxies.txt прокси (login:password@ip:port), с каждой строчки новый, можно без них, тогда файл должен быть пустым;
 
 Основная настройка в settings.py;
 Файл main.py для запуска и выбора модулей (просто добавить или удалить нужные модули из списка);
+
 bot_token здесь - https://botcreators.ru/blog/botfather-instrukciya/
+
 bot_id здесь - https://perfluence.net/blog/article/kak-uznat-id-telegram
 
 Советую добавить тг бота, тк запись логов в файл не прописывал, только то что в терминале, да и бот удобнее для меня.
